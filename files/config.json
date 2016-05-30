@@ -1,6 +1,4 @@
 {
-	"username": "ollie",
-	"api_key": "parsley",
-	"name": "Ollie Parsley",
-	"version": 3
+	"port": 1339,
+	"host": "127.0.0.1"
 }	
